@@ -1,9 +1,8 @@
 # 🌾 Multi-label Crop & Yield Classification  
-### 🧠 Undergrad Capstone Project | Based on Published Research
 
-This repository implements **multi-label classification approaches** to predict **optimal agricultural crops and their yield**, inspired by the research paper included.
+This repository implements **multi-label classification approaches** to predict **optimal agricultural crops and their yield**
 
-📄 **[Read Full Research Paper (IRJET)](research_paper/Research_Paper.pdf)**
+📄 **[Read My Published Paper Here](research_paper/Research_Paper.pdf)**
 
 ---
 
